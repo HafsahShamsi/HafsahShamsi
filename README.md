@@ -103,8 +103,8 @@ Genomics  ──→  Autoimmune Neurodisorders  ──→  Computational Biology
 
 ## 📬 find me
 
-[![Email](https://img.shields.io/badge/Email-hafsahshamsi018@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hafsahshamsi018@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafsah%20Shamsi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafsah-shamsi)
+[![Email](https://img.shields.io/badge/Email-hafsahshamsi018@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafsah%20Shamsi-0077B5?style=flat-square&logo=linkedin&logoColor=white)]
 
 <br>
 
