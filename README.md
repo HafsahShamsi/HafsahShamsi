@@ -1,6 +1,6 @@
 <div align="center">
 
-# hafsah shamsi
+# Hafsah Shamsi
 ### microbiology × data science × computational biology
 
 *building toward the genomics of autoimmune neurodisorders — one project at a time*
