@@ -1,70 +1,83 @@
 <div align="center">
-# hafsah shamsi
-### microbiology × data science × computational biology
- 
-*building toward the genomics of autoimmune neurodisorders — one project at a time*
-</div>
----
 
-### 🔭 Research Focus
+<img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=28&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=600&lines=hi%2C+I'm+Hafsah+Shamsi.;microbiologist+%2B+data+scientist.;building+toward+something+real." alt="Typing SVG" />
 
-I'm an undergraduate at **Mithibai College, Mumbai** working at the intersection of biology and computation. My current goal is to develop the toolkit to analyse genomic data in the context of **autoimmune neurodisorders** — conditions like MS and lupus-driven neurological involvement, where the immune system attacks the nervous system. I want to understand the molecular signatures, not just describe them statistically.
+<br>
 
-I come from a wet lab background and I'm building the dry lab side deliberately — project by project, toward genomic pipelines and eventually drug target analysis.
+*Mumbai · she/her · sketching between experiments*
 
----
+<br>
 
-### 🙋 A little about me
-
--  B.Sc. Microbiology (Major) · Data Science (Minor) — Mithibai College, Mumbai
--  Wet lab: enzyme kinetics, AMR susceptibility testing, biochemical assays
--  Head of Graphics & Photography — *The Economic Transcript*
--  Science communicator — outreach sessions for school students
--  I sketch. A lot.
--  Speak 8 languages (working on German)
-
----
-
-### 🛠 Core Competencies & Toolkit
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Biopython](https://img.shields.io/badge/BIOPYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Email](https://img.shields.io/badge/—%20email%20me-1a1a1a?style=flat-square&logo=gmail&logoColor=C9A96E)](mailto:hafsahshamsi018@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/—%20linkedin-1a1a1a?style=flat-square&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/hafsah-shamsi)
 
 </div>
 
 ---
 
-### 📌 Pinned Projects
+### the work
 
-| | Project | What I built | Stack |
-|---|---|---|---|
-| ✅ | [**Breast Cancer Classification**](https://github.com/HafsahShamsi/breast-cancer-classification) | Logistic regression on FNA biopsy data · 96.5% accuracy · 0.99 ROC-AUC · clinical focus on minimising false negatives | Python · Scikit-learn · Seaborn |
-| 🔄 | **Pima Indians Diabetes Prediction** | KNN classifier · zero-as-missing imputation · cross-validation | Python · Scikit-learn |
-| 📋 | **Mushroom Edibility Classification** | Decision tree · categorical encoding · feature importance | Python · Scikit-learn |
-| 🧬 | **Antibiotic Resistance Gene Analysis** | Biopython pipeline on NCBI genomic data · AMR gene detection | Biopython · Pandas |
+I'm building toward computational research at the intersection of **genomics and autoimmune neurodisorders** — MS, lupus-driven neurological involvement, conditions where the immune system turns against the nervous system. I want to read the molecular signatures, not just model them.
+
+Microbiology major. Data science minor. Wet lab hands, building dry lab instincts — project by project.
+
+Endgame: genomic pipelines → drug target analysis.
 
 ---
 
-### 🤝 Let's connect
+### currently
+
+```
+learning   →   Biopython · German · the patience to let code run
+building   →   ML projects on clinical datasets, working toward genomic data
+reading    →   anything on neuroimmunology + whatever fiction I can finish
+```
+
+---
+
+### toolkit
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafsahshamsi018@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafsah-shamsi)
+![Python](https://img.shields.io/badge/python-1a1a1a?style=flat-square&logo=python&logoColor=C9A96E)
+![R](https://img.shields.io/badge/R-1a1a1a?style=flat-square&logo=r&logoColor=C9A96E)
+![Pandas](https://img.shields.io/badge/pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=C9A96E)
+![NumPy](https://img.shields.io/badge/numpy-1a1a1a?style=flat-square&logo=numpy&logoColor=C9A96E)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=flat-square&logo=scikit-learn&logoColor=C9A96E)
+![Jupyter](https://img.shields.io/badge/jupyter-1a1a1a?style=flat-square&logo=jupyter&logoColor=C9A96E)
+![Biopython](https://img.shields.io/badge/biopython-1a1a1a?style=flat-square&logo=python&logoColor=C9A96E)
+![Matplotlib](https://img.shields.io/badge/matplotlib-1a1a1a?style=flat-square&logo=python&logoColor=C9A96E)
+![Seaborn](https://img.shields.io/badge/seaborn-1a1a1a?style=flat-square&logo=python&logoColor=C9A96E)
+![Git](https://img.shields.io/badge/git-1a1a1a?style=flat-square&logo=git&logoColor=C9A96E)
+![Tableau](https://img.shields.io/badge/tableau-1a1a1a?style=flat-square&logo=tableau&logoColor=C9A96E)
+![Power BI](https://img.shields.io/badge/power%20bi-1a1a1a?style=flat-square&logo=powerbi&logoColor=C9A96E)
 
-*Open to research internships in computational biology · bioinformatics · genomics — from May 2026*
+</div>
+
+---
+
+### projects
+
+| | project | what it does |
+|---|---|---|
+| ✦ | [**breast cancer classification**](https://github.com/HafsahShamsi/breast-cancer-classification) | logistic regression on FNA biopsy data · 96.5% acc · 0.99 ROC-AUC · clinical focus on false negative reduction |
+| ○ | **pima indians diabetes** *(in progress)* | KNN · zero-as-missing imputation · cross-validation |
+| ○ | **mushroom edibility** *(planned)* | decision tree · categorical encoding · feature importance |
+| ○ | **antibiotic resistance gene analysis** *(planned)* | biopython + NCBI · AMR gene detection · where the two degrees actually meet |
+
+---
+
+### outside the lab
+
+- 🖋 head of graphics & photography — *The Economic Transcript*
+- 🔭 science outreach for school students
+- ✏️ sketchbooks everywhere
+- 🗣 English · Hindi · Urdu · Arabic · Marathi · French · Sanskrit · German *(learning)*
+
+---
+
+<div align="center">
+
+*open to research internships in computational biology · bioinformatics · genomics — May 2026 onwards*
 
 </div>
