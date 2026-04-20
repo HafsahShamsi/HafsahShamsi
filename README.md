@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=28&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hafsah+Shamsi.;Microbiologist+%2B+Data+Scientist.;building+toward+something+real." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=28&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hafsah+Shamsi.;Microbiologist+%2B+Data+Scientist.;building+towards+something+real." alt="Typing SVG" />
 
 <br>
 
@@ -8,14 +8,14 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/—%20email-1a1a1a?style=flat-square&logo=gmail&logoColor=C9A96E)](mailto:hafsahshamsi018@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/—%20linkedin-1a1a1a?style=flat-square&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/hafsah-shamsi)
+[![Email](https://img.shields.io/badge/—%20Email-1a1a1a?style=flat-square&logo=gmail&logoColor=C9A96E)](mailto:hafsahshamsi018@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/—%20LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/hafsah-shamsi)
 
 </div>
 
 ---
 
-### the work
+### The Work
 
 I'm building toward computational research at the intersection of **genomics and autoimmune neurodisorders** — MS, lupus-driven neurological involvement, conditions where the immune system turns against the nervous system. I want to read the molecular signatures, not just model them.
 
@@ -25,7 +25,7 @@ Endgame: genomic pipelines → drug target analysis.
 
 ---
 
-### currently
+### Currently
 
 ```
 learning   →   Biopython · German · the patience to let code run
@@ -35,7 +35,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 ---
 
-### toolkit
+### Toolkit
 
 <div align="center">
 
@@ -56,7 +56,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 ---
 
-### projects
+### Projects
 
 | | project | what it does |
 |---|---|---|
@@ -67,10 +67,10 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 ---
 
-### outside the lab
+### Outside the Lab
 
-- 🖋 head of graphics & photography — *The Economic Transcript*
-- 🔭 science outreach for school students
+- 🖋 Head of Graphics & Photography — *The Economic Transcript*
+- 🔭 Science Outreach for School students
 - ✏️ sketchbooks everywhere
 - 🗣 English · Hindi · Urdu · Arabic · Marathi · French · Sanskrit · German *(learning)*
 
