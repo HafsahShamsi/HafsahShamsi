@@ -1,62 +1,115 @@
-# Hi, I'm Hafsah 👋
+<div align="center">
 
-I'm a third-year undergraduate at **Mithibai College, Mumbai** studying **Microbiology (Major) + Data Science (Minor)** — building toward computational research at the intersection of genomics and autoimmune/neurological disease.
+# hafsah shamsi
+### microbiology × data science × computational biology
 
-My goal over the next two years: develop the computational toolkit to analyse genomic data in the context of autoimmune neurodisorders — conditions like MS, lupus-driven neurological involvement, and related pathologies where the immune system attacks the nervous system. I want to understand the molecular signatures, not just describe them statistically.
+*building toward the genomics of autoimmune neurodisorders — one project at a time*
 
----
+<br>
 
-## 🧬 What I'm building toward
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Niche:** Genomics × Autoimmune Neurodisorders × Computational Biology  
-**Approach:** Start with clean ML on clinical datasets → move into Biopython pipelines → genomic data → eventually drug target analysis
+</div>
 
-I come from a wet lab background (enzyme kinetics, antimicrobial susceptibility testing, biochemical assays) and I'm building the dry lab side deliberately — project by project.
+<br>
 
----
+## 🧠 who I am
 
-## 📂 Projects
+Third-year undergrad at **Mithibai College, Mumbai** — Microbiology major, Data Science minor. I came in through the wet lab (enzyme kinetics, antimicrobial susceptibility testing, biochemical assays) and I'm building the computational side deliberately, project by project.
 
-| Project | Description | Tools | Status |
-|---|---|---|---|
-| [Breast Cancer Classification](https://github.com/HafsahShamsi/breast-cancer-classification) | Logistic regression on FNA biopsy measurements — 96.5% accuracy, 0.99 ROC-AUC, focus on minimising false negatives | Python, Pandas, Scikit-learn, Seaborn | ✅ Complete |
-| Pima Indians Diabetes Prediction | KNN classifier with data cleaning (zeros as missing values) and cross-validation | Python, Scikit-learn | 🔄 Up next |
-| Mushroom Edibility Classification | Decision tree with categorical encoding and feature importance visualisation | Python, Scikit-learn | 📋 Planned |
-| Antibiotic Resistance Gene Analysis | Biopython pipeline on NCBI public genomic data — AMR gene detection and visualisation | Biopython, Pandas, Matplotlib | 📋 Planned |
+Where I'm heading: **genomics of autoimmune neurodisorders** — MS, lupus-driven neurological involvement, conditions where the immune system turns on the nervous system. I want to understand the molecular signatures computationally, not just describe them statistically. Eventually: drug target analysis.
 
----
+Outside the lab I lead graphics and photography for my college publication, run science outreach sessions for school students, and sketch obsessively.
 
-## 🛠 Skills
+<br>
 
-**Languages:** Python · R · SQL (learning)  
-**ML & Data:** Scikit-learn · Pandas · NumPy · Seaborn · Matplotlib  
-**Bioinformatics:** Biopython · NCBI databases · Molecular docking principles  
-**Lab:** Enzyme kinetics · Antimicrobial susceptibility testing · Gram staining · Sterile technique  
-**Other:** Power BI · Tableau · Git
+## 🔬 research direction
 
----
+```
+Genomics  ──→  Autoimmune Neurodisorders  ──→  Computational Biology  ──→  Drug Discovery
+```
 
-## 📜 Certifications
+**Right now:** Clean ML on clinical datasets, building intuition for biological data  
+**Next:** Biopython pipelines on NCBI genomic data  
+**Goal:** Genomic signature analysis in autoimmune neurological disease
 
-- **Molecular Docking and Drug Discovery** — Microbiologists Society, India (2025)
-- **Mathematics in Biological Sciences** — MBSI (2025)
-- **Resonance Science Outreach Programme** — Indian Academy of Sciences & IISER Thiruvananthapuram (2025)
+<br>
 
----
+## 📂 projects
 
-## 🔬 Background
+### ✅ [Breast Cancer Tumour Classification](https://github.com/HafsahShamsi/breast-cancer-classification)
+> Logistic regression on FNA biopsy measurements from 569 patients. 96.5% accuracy, 0.99 ROC-AUC. Clinical focus: minimising false negatives, because a missed malignancy is the most dangerous error.
 
-My wet lab work has been in enzyme kinetics — determining Km and Vmax under varying temperature, pH, and substrate conditions, with computational curve fitting in Python and R. I've also done antimicrobial susceptibility testing and quantitative biochemical assays.
-
-Outside the lab: I lead graphics and photography for *The Economic Transcript* (college publication), run science outreach sessions for school students, and sketch. I think visually, which is probably why I'm drawn to data visualisation as much as the modelling itself.
+`Python` `Pandas` `Scikit-learn` `Seaborn` `Logistic Regression` `ROC-AUC`
 
 ---
 
-## 📬 Get in touch
+### 🔄 Pima Indians Diabetes Prediction *(up next)*
+> KNN classifier with careful data cleaning — zeros as missing values, cross-validation, threshold tuning.
 
-**Email:** hafsahshamsi018@gmail.com  
-**LinkedIn:** [Hafsah Shamsi](https://linkedin.com/in/hafsah-shamsi)
+`Python` `Scikit-learn` `KNN` `Cross-validation`
 
 ---
 
-*Currently seeking research internship opportunities in computational biology, bioinformatics, or genomics — available from May 2026.*
+### 📋 Mushroom Edibility Classification *(planned)*
+> Decision tree with categorical encoding and feature importance visualisation.
+
+`Python` `Scikit-learn` `Decision Tree`
+
+---
+
+### 🧬 Antibiotic Resistance Gene Analysis *(planned — longer term)*
+> Biopython pipeline on NCBI public genomic data. AMR gene detection and visualisation — this is where the microbiology degree and the data science toolkit actually merge.
+
+`Biopython` `NCBI` `Pandas` `Matplotlib`
+
+<br>
+
+## 🛠 skills
+
+| Domain | Tools |
+|---|---|
+| **ML & Data** | Python · Pandas · NumPy · Scikit-learn · Seaborn · Matplotlib |
+| **Stats & Computing** | R · Biostatistics · Curve fitting · Parameter estimation |
+| **Bioinformatics** | Biopython · NCBI databases · Molecular docking principles |
+| **Visualisation** | Power BI · Tableau · Jupyter |
+| **Wet Lab** | Enzyme kinetics · AMR susceptibility testing · Gram staining · Sterile technique |
+
+<br>
+
+## 📜 certifications
+
+🔬 **Molecular Docking and Drug Discovery** — Microbiologists Society, India *(2025 · 12 hrs)*
+
+📐 **Mathematics in Biological Sciences** — MBSI *(2025 · 14 hrs)*
+
+🏛 **Resonance Science Outreach Programme** — Indian Academy of Sciences & IISER Thiruvananthapuram *(2025)*
+
+<br>
+
+## ✏️ a bit more
+
+- 🎨 Head of Graphics & Photography — *The Economic Transcript*
+- 🔭 Science outreach — run sessions for school students on lab science and microbiology
+- ✒️ I sketch. A lot.
+- 🗣 Languages: English · Hindi · Urdu · Arabic · Marathi · French · Sanskrit · German *(learning)*
+
+<br>
+
+## 📬 find me
+
+[![Email](https://img.shields.io/badge/Email-hafsahshamsi018@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hafsahshamsi018@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafsah%20Shamsi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafsah-shamsi)
+
+<br>
+
+<div align="center">
+
+*Available for research internships in computational biology · bioinformatics · genomics — from May 2026*
+
+</div>
