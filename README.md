@@ -61,7 +61,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 | | project | what it does |
 |---|---|---|
 | ✦ | [**breast cancer classification**](https://github.com/HafsahShamsi/breast-cancer-classification) | logistic regression on FNA biopsy data · 96.5% acc · 0.99 ROC-AUC · clinical focus on false negative reduction |
-| ✦ | [**pima indians diabetes**] (https://github.com/HafsahShamsi/pima-diabetes-prediction) | KNN · zero-as-missing imputation · cross-validation |
+| ✦ | [**pima indians diabetes**](https://github.com/HafsahShamsi/pima-diabetes-prediction) | KNN · zero-as-missing imputation · cross-validation |
 | ○ | **mushroom edibility** *(planned)* | decision tree · categorical encoding · feature importance |
 | ○ | **antibiotic resistance gene analysis** *(planned)* | biopython + NCBI · AMR gene detection · where the two degrees actually meet |
 
