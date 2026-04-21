@@ -13,20 +13,29 @@
 [![LinkedIn](https://img.shields.io/badge/—%20LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/hafsah-shamsi)
 </div>
 ---
+
 ### The Work
+
 I'm building toward computational research at the intersection of **genomics and autoimmune neurodisorders** — MS, lupus-driven neurological involvement, conditions where the immune system turns against the nervous system. I want to read the molecular signatures, not just model them.
+
 Microbiology major. Data science minor. Wet lab hands, building dry lab instincts — project by project.
+
 Endgame: genomic pipelines → drug target analysis.
+
 ---
+
 ### Currently
 ```
+
 learning   →   Biopython · German · the patience to let code run
 building   →   genomic expression pipelines · ML on clinical datasets
 reading    →   anything on neuroimmunology + whatever fiction I can finish
 ```
 ---
+
 ### Toolkit
-<div align="center">
+<div 
+  align="center">
 
   ![Python](https://img.shields.io/badge/python-1a1a1a?style=flat-square&logo=python&logoColor=C9A96E)
   ![R](https://img.shields.io/badge/R-1a1a1a?style=flat-square&logo=r&logoColor=C9A96E)
