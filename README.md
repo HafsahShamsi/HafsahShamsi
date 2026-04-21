@@ -16,7 +16,7 @@
 
 ---
 
-### the work
+### The Work
 
 I'm building toward computational research at the intersection of **genomics and autoimmune neurodisorders** — MS, lupus-driven neurological involvement, conditions where the immune system turns against the nervous system. I want to read the molecular signatures, not just model them.
 
@@ -26,7 +26,7 @@ Endgame: genomic pipelines → drug target analysis.
 
 ---
 
-### currently
+### Currently
 
 ```
 learning   →   Biopython · German · the patience to let code run
@@ -36,7 +36,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 ---
 
-### core competencies & toolkit
+### Core Competencies & Toolkit
 
 <div align="center">
 
@@ -70,7 +70,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 ---
 
-### projects
+### Projects
 
 | | project | what it does |
 |---|---|---|
@@ -83,7 +83,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 ---
 
-### outside the lab
+### Outside the Lab
 
 - 🖋 Head of Graphics & Photography — *The Economic Transcript*
 - 🔭 Science outreach for school students
