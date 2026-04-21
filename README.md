@@ -1,16 +1,10 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=28&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hafsah+Shamsi.;Microbiologist+%2B+Data+Scientist.;building+towards+something+real." alt="Typing SVG" />
-
 <br>
-
 *Mumbai · she/her · sketching between experiments*
-
 <br>
-
 [![Email](https://img.shields.io/badge/—%20Email-1a1a1a?style=flat-square&logo=gmail&logoColor=C9A96E)](mailto:hafsahshamsi018@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/—%20LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/hafsah-shamsi)
-
 </div>
 
 ---
@@ -29,7 +23,7 @@ Endgame: genomic pipelines → drug target analysis.
 
 ```
 learning   →   Biopython · German · the patience to let code run
-building   →   ML projects on clinical datasets, working toward genomic data
+building   →   genomic expression pipelines · ML on clinical datasets
 reading    →   anything on neuroimmunology + whatever fiction I can finish
 ```
 
@@ -46,6 +40,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=flat-square&logo=scikit-learn&logoColor=C9A96E)
 ![Jupyter](https://img.shields.io/badge/jupyter-1a1a1a?style=flat-square&logo=jupyter&logoColor=C9A96E)
 ![Biopython](https://img.shields.io/badge/biopython-1a1a1a?style=flat-square&logo=python&logoColor=C9A96E)
+![GEOparse](https://img.shields.io/badge/GEOparse-1a1a1a?style=flat-square&logo=python&logoColor=C9A96E)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-1a1a1a?style=flat-square&logo=python&logoColor=C9A96E)
 ![Seaborn](https://img.shields.io/badge/seaborn-1a1a1a?style=flat-square&logo=python&logoColor=C9A96E)
 ![Git](https://img.shields.io/badge/git-1a1a1a?style=flat-square&logo=git&logoColor=C9A96E)
@@ -60,6 +55,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 | | project | what it does |
 |---|---|---|
+| ✦ | [**MS Gene Expression Analysis**](https://github.com/HafsahShamsi/ms_gene_expression) | GEOparse · differential expression · PCA · volcano plot · real clinical GEO data |
 | ✦ | [**Breast Cancer Classification**](https://github.com/HafsahShamsi/breast-cancer-classification) | logistic regression on FNA biopsy data · 96.5% acc · 0.99 ROC-AUC · clinical focus on false negative reduction |
 | ✦ | [**Pima Indians Diabetes**](https://github.com/HafsahShamsi/pima-diabetes-prediction) | KNN · zero-as-missing imputation · cross-validation |
 | ✦ | [**Mushroom Edibility**](https://github.com/HafsahShamsi/Mushroom-Edibility-Classification) | decision tree · categorical encoding · feature importance |
@@ -78,6 +74,6 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 <div align="center">
 
-*open to research internships in computational biology · bioinformatics · genomics — May 2026 onwards*
+*actively looking for research internships in computational biology · bioinformatics · genomics*
 
 </div>
