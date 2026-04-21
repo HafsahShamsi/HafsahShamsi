@@ -1,4 +1,5 @@
 <div align="center">
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=28&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hafsah+Shamsi.;Microbiologist+%2B+Data+Scientist.;building+towards+something+real." alt="Typing SVG" />
 <br>
 *Mumbai · she/her · sketching between experiments*
