@@ -60,10 +60,10 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 | | project | what it does |
 |---|---|---|
-| ✦ | [**breast cancer classification**](https://github.com/HafsahShamsi/breast-cancer-classification) | logistic regression on FNA biopsy data · 96.5% acc · 0.99 ROC-AUC · clinical focus on false negative reduction |
-| ✦ | [**pima indians diabetes**](https://github.com/HafsahShamsi/pima-diabetes-prediction) | KNN · zero-as-missing imputation · cross-validation |
-| ✦ | [**mushroom edibility**](https://github.com/HafsahShamsi/Mushroom-Edibility-Classification) | decision tree · categorical encoding · feature importance |
-| ○ | **antibiotic resistance gene analysis** *(planned)* | biopython + NCBI · AMR gene detection · where the two degrees actually meet |
+| ✦ | [**Breast Cancer Classification**](https://github.com/HafsahShamsi/breast-cancer-classification) | logistic regression on FNA biopsy data · 96.5% acc · 0.99 ROC-AUC · clinical focus on false negative reduction |
+| ✦ | [**Pima Indians Diabetes**](https://github.com/HafsahShamsi/pima-diabetes-prediction) | KNN · zero-as-missing imputation · cross-validation |
+| ✦ | [**Mushroom Edibility**](https://github.com/HafsahShamsi/Mushroom-Edibility-Classification) | decision tree · categorical encoding · feature importance |
+| ○ | [**Antibiotic Resistance Gene Analysis**](https://github.com/HafsahShamsi/AMR-Gene-Analysis) | biopython + NCBI · AMR gene detection · where the two degrees actually meet |
 
 ---
 
