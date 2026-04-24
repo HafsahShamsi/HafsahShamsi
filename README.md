@@ -74,6 +74,8 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 | | project | what it does |
 |---|---|---|
+| ✦ | [**ms pathway enrichment**](https://github.com/HafsahShamsi/ms-pathway-enrichment) | Enrichr API · KEGG + GO · dot plot · lysosome / PPAR / fatty acid degradation pathways in MS |
+| ✦ | **nmo vs ms DEG comparison** *(in progress)* | neuro-deg-scanner · GSE comparison · NMO vs MS transcriptomic divergence |
 | ✦ | [**neuro-deg-scanner**](https://github.com/HafsahShamsi/neuro-deg-scanner) | reusable DEG pipeline · point at any GEO accession · PCA · volcano plot · FDR-corrected DEGs in one call |
 | ✦ | [**MS gene expression analysis**](https://github.com/HafsahShamsi/ms_gene_expression) | GEOparse · differential expression · PCA · volcano plot · real clinical GEO data |
 | ✦ | [**breast cancer classification**](https://github.com/HafsahShamsi/breast-cancer-classification) | logistic regression · FNA biopsy data · 96.5% acc · 0.99 ROC-AUC · clinical focus on false negative reduction |
