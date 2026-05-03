@@ -74,6 +74,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 | | project | what it does |
 |---|---|---|
+| ✦ | [**ms polygenic risk score**](https://github.com/HafsahShamsi/ms-polygenic-risk-score) | GWAS Catalog · 379 SNPs · PRS calculation · HLA dominance · top risk SNP visualisation |
 | ✦ | [**pituitary adenoma DEG analysis**](https://github.com/HafsahShamsi/pituitary-adenoma-deg) | GEOparse · DEG pipeline · HPA axis feedback genes · KEGG + GO enrichment · PI3K-Akt / MAPK loss in adenoma |
 | ✦ | [**ms pathway enrichment**](https://github.com/HafsahShamsi/ms-pathway-enrichment) | Enrichr API · KEGG + GO · dot plot · lysosome / PPAR / fatty acid degradation pathways in MS |
 | ✦ | **nmo vs ms DEG comparison** *(in progress)* | neuro-deg-scanner · GSE comparison · NMO vs MS transcriptomic divergence |
