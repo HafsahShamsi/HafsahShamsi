@@ -74,6 +74,7 @@ reading    →   anything on neuroimmunology + whatever fiction I can finish
 
 | | project | what it does |
 |---|---|---|
+| ✦ | [**pituitary adenoma DEG analysis**](https://github.com/HafsahShamsi/pituitary-adenoma-deg) | GEOparse · DEG pipeline · HPA axis feedback genes · KEGG + GO enrichment · PI3K-Akt / MAPK loss in adenoma |
 | ✦ | [**ms pathway enrichment**](https://github.com/HafsahShamsi/ms-pathway-enrichment) | Enrichr API · KEGG + GO · dot plot · lysosome / PPAR / fatty acid degradation pathways in MS |
 | ✦ | **nmo vs ms DEG comparison** *(in progress)* | neuro-deg-scanner · GSE comparison · NMO vs MS transcriptomic divergence |
 | ✦ | [**neuro-deg-scanner**](https://github.com/HafsahShamsi/neuro-deg-scanner) | reusable DEG pipeline · point at any GEO accession · PCA · volcano plot · FDR-corrected DEGs in one call |
